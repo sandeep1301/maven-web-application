@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies - GitHub Webhook Demo  .....</h1>
+<h1 align="center">Welcome to Sandeep Technologies - GitHub Webhook Demo  .....</h1>
 <h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program on June. MSS- Very Good Training center for DevOps with AWS in MarathaHalli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... I am requesting everyone. Please give your reviews in Google.</h1>
 <hr>
 <div style="text-align: center;">
